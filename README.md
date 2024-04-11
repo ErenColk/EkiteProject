@@ -19,7 +19,7 @@ Modern ve verimli bir İnsan Kaynakları Yönetim Sistemi, .NET Core, React.JS v
 **Versiyon Kontrol Sistemi:** Git
 
 ## Projeyi Başlatma
-- appsetting.development içerisindeki server bağlantısını düzenleyin.
+- appsetting.development içerisindeki Server bağlantısını ve JwtSettings düzenleyin.
 - PM Console'da add-migration [Migration Adı] komutunu yazıp çalıştırın
 - PM Console'da update-database diyerek veritabanını oluşturun.
 - UI katmanını startup olarak seçip projeyi çalıştırabilirsiniz.
